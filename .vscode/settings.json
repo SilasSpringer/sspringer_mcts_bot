@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\lib\\hamcrest-all-1.3.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\lib\\jdom.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\lib\\junit-4.12.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\lib\\minimal-json-0.9.4.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\lib\\weka.jar",
+        "e:\\yello\\Schooling\\Grad\\GameAI\\MicroRTS\\MicroRTS.jar"
+    ]
+}

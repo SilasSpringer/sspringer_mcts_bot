@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ai.mcts.sspringer_mcts_bot;
+package sspringer_mcts_bot;
 
 import ai.mcts.MCTSNode;
 import ai.stochastic.UnitActionProbabilityDistribution;
