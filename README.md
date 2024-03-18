@@ -23,7 +23,7 @@ Modifications include:
 ### to export to a jar
 - click the `export Jar...` button at the top of the `Java Projects` pane
 - in the checkbox list it shows, _deselect_ all libraries, leaving _only_ `bin` checked.
-![image](https://github.com/SilasSpringer/sspringer_mcts_bot/assets/54564568/2ec70781-2869-4647-a6ce-153d463178e1)
+![image](https://github.com/SilasSpringer/sspringer_mcts_bot/assets/54564568/2171528b-3818-4e10-8977-7f33ad3786a1)
 
 - click `OK`
 
