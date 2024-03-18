@@ -12,7 +12,7 @@ Modifications include:
 - [ ] simulation weighting
 - [ ] (eventually) leaf parallelization.
 
-## Instructions for running this bot
+## Instructions for building this bot
 - Clone this repository
 - Open the project in VSCode
 - Set this folder as its own Java project, and ensure all the sources appear correctly in the src section within the `Java Projects` pane.
